@@ -1,0 +1,14 @@
+{
+  "avatarUrl": "www.google.com",
+  "backgroundUrl": "www.google.com",
+  "colors": [
+    {
+      "primary": "#234561",
+      "black": "#000000",
+      "dark": "#2e2e2e",
+      "light": "#efefef",
+      "white": "#ffffff"
+    }
+  ],
+  "googleFont": "Lato"
+}
